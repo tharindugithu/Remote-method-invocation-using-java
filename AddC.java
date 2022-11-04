@@ -17,7 +17,7 @@ public class AddC extends UnicastRemoteObject implements AddI {
     @Override
     public int add(int x, int y) throws Exception {
 
-        return x - y;
+        return x + y;
     }
 
 }
