@@ -1,5 +1,4 @@
 
-
 import java.rmi.Remote;
 
 public interface AddI extends Remote {
